@@ -1,0 +1,8 @@
+.topnav {
+  background-color: black;
+  height: 30px
+}
+.topnav p {
+  text-transform: uppercase;
+  color: white
+}
