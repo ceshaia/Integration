@@ -1,3 +1,7 @@
+* {
+  border: 1px red dotted;
+}
+
 .topnav {
   background-color: black;
   height: 30px
@@ -5,4 +9,20 @@
 .topnav p {
   text-transform: uppercase;
   color: white
+}
+
+body {
+    text-align: center;
+}
+
+main {
+  border: 3px blue dotted;
+  display: inline-block;
+  margin: auto;
+}
+
+main section {
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
 }
